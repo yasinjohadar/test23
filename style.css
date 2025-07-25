@@ -1,11 +1,15 @@
-h1 {
-    font-size: 50px;
-    color: blue;
-}
+
 ul {
     list-style-type: none;
     padding: 0;
     display: flex;
     justify-content: space-around;
-    background-color: brown;
+    background-color: rgb(225, 225, 225);
+    padding: 20px 0 !important;
+
+}
+li {
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
 }
