@@ -7,12 +7,12 @@ ul {
     padding: 0;
     display: flex;
     justify-content: space-around;
-    background-color: rgb(36, 35, 35);
+    background-color: rgb(255, 0, 0);
     padding: 20px 0 !important;
 
 }
 li {
     color: white;
-    font-size: 20px;
+    font-size: 50px;
     cursor: pointer;
 }
